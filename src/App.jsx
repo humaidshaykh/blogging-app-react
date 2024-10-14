@@ -13,6 +13,7 @@ import AdminLogin from "./pages/admin/adminLogin/AdminLogin";
 import Dashboard from "./pages/admin/dashboard/Dashboard";
 import MyState from "./context/data/myState";
 import CreateBlog from "./pages/admin/createBlog/CreateBlog";
+import NoPage from './pages/nopage/NoPage';
 import { Toaster } from "react-hot-toast";
 
 function App() {
